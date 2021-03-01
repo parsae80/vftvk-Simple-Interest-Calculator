@@ -7,12 +7,17 @@ h1{
     color:grey;
     font-family: verdana, serif;
 }
+.highlight{
+    color: red;
+}
+
 .maindiv{
-background-color: white;
+    background-color: white;
     color: black;
     width: 300px;
     padding: 20px;
     border-radius: 25px;
     align-self: center;
+
 }
 
